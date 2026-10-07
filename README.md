@@ -10,9 +10,9 @@
 - 🚀 I have delivered backend systems for large-scale projects in retail, aviation and e-mobility (Migros, THY, ZES, IGA)
 - 🏙️ Earlier in my career I worked on smart city, GIS and LIMS platforms
 - 🌱 Currently learning: _add what you're learning (e.g. Kubernetes, system design, Azure)_
-- 📝 I write about backend development here: https://simakel.com
+- 📝 I write about backend development at [simakel.com](https://simakel.com)
 - 💬 Ask me about **.NET, C#, SQL Server, microservices, messaging (RabbitMQ / Kafka) and caching (Redis)**
-- 📫 How to reach me: [alisimsek@simakel.com]
+- 📫 How to reach me: [alisimsek@simakel.com](mailto:alisimsek@simakel.com)
 - ⚡ Fun fact: _add something personal_
 
 ---
@@ -23,19 +23,27 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,rabbitmq,kafka,redis,docker,aws,angular,react,ts,git&perline=12" />
 </p>
 
-**Backend:** C#, ASP.NET Core, .NET 8, Entity Framework Core, REST APIs, Microservices
-**Data & Messaging:** SQL Server, Redis, RabbitMQ, Kafka
-**Architecture:** Clean Architecture, DDD, CQRS, Event-driven design
-**DevOps & Cloud:** Docker, AWS, CI/CD
+**Backend:** C#, ASP.NET Core, .NET 8, Entity Framework Core, REST APIs, Microservices  
+**Data & Messaging:** SQL Server, Redis, RabbitMQ, Kafka  
+**Architecture:** Clean Architecture, DDD, CQRS, Event-driven design  
+**DevOps & Cloud:** Docker, AWS, CI/CD  
 **Frontend:** Angular, React, TypeScript
 
 ---
 
 ### 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=simsekali38&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simsekali38&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=simsekali38&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=simsekali38&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -45,3 +53,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simakel)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisimsek@simakel.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/simakel)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://simakel.com)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=simsekali38&label=Profile%20views&color=512bd4&style=flat" />
+</p>
