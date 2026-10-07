@@ -20,7 +20,7 @@
 
 | Project | Domain | What I worked on | Tech |
 |---|---|---|---|
-| **ZES / ChargeTracking** | EV charging & integration platform | .NET 8 services around API Gateway, authentication, notifications, invoicing and integrations. Layered architecture with messaging and background processing to keep the platform maintainable. | .NET 8, RabbitMQ, Ocelot, Consul, EF Core, MediatR, Hangfire, Angular |
+| **ZES / ChargeTracking** | Car charging & integration platform | .NET 8 services around API Gateway, authentication, notifications, invoicing and integrations. Layered architecture with messaging and background processing to keep the platform maintainable. | .NET 8, RabbitMQ, Ocelot, Consul, EF Core, MediatR, Hangfire, Angular |
 | **THY YBY / OCCR** | Aviation operations & management | .NET APIs and React/TypeScript frontends for station management, aircraft/engine change tracking and operational workflows, with domain-oriented modelling. | .NET, React, TypeScript, EF Core, DDD |
 | **Migros Gourmet / Alacarte** | Retail, order & messaging platform | Consumer, API, task and messaging services for order management, customer workflows and enterprise integrations, with Redis-backed performance and message-oriented boundaries. | ASP.NET Core, Kafka, Redis, EF Core, Angular |
 | **IGA** | Airport operations, Scan-and-Go & staff screens | Structured Admin, External Integration, Exit Door, Scan-and-Go and Staff Screen APIs built on Clean Architecture, separating business rules from infrastructure for testability and observability. | Clean Architecture, JWT, RabbitMQ, Refit, Serilog, MediatR |
@@ -48,7 +48,7 @@
 **Cloud & DevOps:** AWS, Docker, CI/CD, Grafana, Serilog, NLog, Structured Logging, Monitoring  
 **Frontend:** Angular, React, TypeScript, RxJS, JavaScript, HTML5, CSS, Bootstrap  
 **Quality:** xUnit, Moq, FluentValidation, Selenium, Testable Services  
-**Other:** Firebase, Git
+**Other:** Firebase, Git, Jira
 
 ---
 
