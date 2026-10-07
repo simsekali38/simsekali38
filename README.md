@@ -9,25 +9,26 @@
 - 🏗️ I design and build microservices using **Clean Architecture, DDD and CQRS**
 - 🚀 I have delivered backend systems for large-scale projects in retail, aviation and e-mobility (Migros, THY, ZES, IGA)
 - 🏙️ Earlier in my career I worked on smart city, GIS and LIMS platforms
-- 🌱 Currently learning: _add what you're learning (e.g. Kubernetes, system design, Azure)_
+- 🌱 Currently learning: **Kubernetes** and **distributed system design**
 - 📝 I write about backend development at [simakel.com](https://simakel.com)
 - 💬 Ask me about **.NET, C#, SQL Server, microservices, messaging (RabbitMQ / Kafka) and caching (Redis)**
 - 📫 How to reach me: [alisimsek@simakel.com](mailto:alisimsek@simakel.com)
-- ⚡ Fun fact: _add something personal_
+- ⚡ Fun fact: **I turn tea into code** ☕
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,rabbitmq,kafka,redis,docker,aws,angular,react,ts,git&perline=12" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,postgres,mysql,mongodb,elasticsearch,redis,rabbitmq,kafka,docker,aws,grafana,git,angular,react,ts,js,html,css,bootstrap,firebase,selenium&perline=12" />
 </p>
 
 **Backend:** C#, ASP.NET Core, .NET 8, Entity Framework Core, REST APIs, Microservices  
-**Data & Messaging:** SQL Server, Redis, RabbitMQ, Kafka  
+**Data & Messaging:** SQL Server, PostgreSQL, MySQL, MongoDB, Elasticsearch, Redis, RabbitMQ, Kafka  
 **Architecture:** Clean Architecture, DDD, CQRS, Event-driven design  
-**DevOps & Cloud:** Docker, AWS, CI/CD  
-**Frontend:** Angular, React, TypeScript
+**DevOps & Cloud:** Docker, AWS, Grafana, CI/CD  
+**Frontend:** Angular, React, TypeScript, JavaScript, HTML5, CSS3, Bootstrap  
+**Other:** Firebase, Selenium, Git
 
 ---
 
