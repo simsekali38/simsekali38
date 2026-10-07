@@ -10,9 +10,9 @@
 - 🚀 I have delivered backend systems for large-scale projects in retail, aviation and e-mobility (Migros, THY, ZES, IGA)
 - 🏙️ Earlier in my career I worked on smart city, GIS and LIMS platforms
 - 🌱 Currently learning: _add what you're learning (e.g. Kubernetes, system design, Azure)_
-- 📝 I write about backend development here: [your blog link]
+- 📝 I write about backend development here: https://simakel.com
 - 💬 Ask me about **.NET, C#, SQL Server, microservices, messaging (RabbitMQ / Kafka) and caching (Redis)**
-- 📫 How to reach me: [your-email@example.com]
+- 📫 How to reach me: [alisimsek@simakel.com]
 - ⚡ Fun fact: _add something personal_
 
 ---
@@ -34,22 +34,14 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=simsekali38&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simsekali38&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### ✍️ Latest Blog Posts
-
-- [Post title 1](https://your-blog-link)
-- [Post title 2](https://your-blog-link)
-- [Post title 3](https://your-blog-link)
 
 ---
 
 ### 🤝 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simakel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisimsek@simakel.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/simakel)
