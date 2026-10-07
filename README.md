@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 Senior Full Stack & Backend Developer with 14+ years of experience, focused on **ASP.NET Core, .NET 8/9, REST APIs, microservices and event-driven architectures**
+- 🔭 Senior Full Stack & Backend Developer with 14+ years of experience, focused on **ASP.NET Core, .NET 8/9/10, REST APIs, microservices and event-driven architectures**
 - 🚀 I have delivered high-traffic systems across retail, aviation, energy, airport operations, fintech and smart-city domains (Migros, THY, IGA, ZES)
 - 🏗️ I design systems with **Clean Architecture, DDD, CQRS and MediatR**, and build reusable core libraries for engineering consistency
 - 🌱 Currently learning: **Kubernetes** and **distributed system design**
@@ -39,15 +39,16 @@
 ### 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,oracle,mysql,elasticsearch,redis,rabbitmq,kafka,docker,aws,git,angular,react,ts,js,html,css,bootstrap&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,oracle,mysql,postgres,mongodb,elasticsearch,redis,rabbitmq,kafka,docker,aws,grafana,git,firebase,selenium,angular,react,ts,js,html,css,bootstrap&perline=12" />
 </p>
 
-**Backend:** C#, ASP.NET Core Web API, .NET 6/7/8/9, .NET Framework, EF Core, LINQ, REST, Swagger/OpenAPI  
+**Backend:** C#, ASP.NET Core Web API, .NET 6/7/8/9/10, .NET Framework, EF Core, LINQ, REST, Swagger/OpenAPI  
 **Architecture:** Clean Architecture, DDD, CQRS, MediatR, Microservices, Modular Monolith, API Gateway  
-**Data & Messaging:** SQL Server, Oracle, MySQL, Redis, Kafka, RabbitMQ, Elasticsearch, Hangfire  
-**Cloud & DevOps:** AWS, Docker, CI/CD, Serilog, NLog, Structured Logging, Monitoring  
+**Data & Messaging:** SQL Server, Oracle, MySQL, PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ, Elasticsearch, Hangfire  
+**Cloud & DevOps:** AWS, Docker, CI/CD, Grafana, Serilog, NLog, Structured Logging, Monitoring  
 **Frontend:** Angular, React, TypeScript, RxJS, JavaScript, HTML5, CSS, Bootstrap  
-**Quality:** xUnit, Moq, FluentValidation, Testable Services
+**Quality:** xUnit, Moq, FluentValidation, Selenium, Testable Services  
+**Other:** Firebase, Git
 
 ---
 
@@ -58,6 +59,14 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simsekali38&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=simsekali38&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=simsekali38&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
 ---
 
 ### 🤝 Let's connect
@@ -66,3 +75,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisimsek@simakel.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/simakel)
 [![Website](https://img.shields.io/badge/Website-068EB7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://simakel.com)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=simsekali38&label=Profile%20views&color=512bd4&style=flat" />
+</p>
