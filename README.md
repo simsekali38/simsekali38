@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:512bd4&height=200&section=header&text=Ali%20%C5%9Eim%C5%9Fek&fontSize=50&fontColor=ffffff&desc=Senior%20.NET%20Backend%20Developer&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:512bd4&height=200&section=header&text=Ali%20%C5%9E%C4%B0M%C5%9EEK&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Senior%20.NET%20Backend%20Developer&descSize=20&descAlignY=55" width="100%"/>
 
 <h2 align="center">Hi there 👋, I'm Ali</h2>
 <p align="center">Scalable backend systems & enterprise integrations with .NET, for 14+ years.</p>
