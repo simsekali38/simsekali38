@@ -41,7 +41,7 @@
 - **RunFlow / PayAndGo / TipMe:** fintech payment, promotion, admin API and reporting modules with Iyzico integration
 - **CollegeWiser / EduWee / Yadyo:** education and language-learning backend services (.NET 8/9) with Android/Kotlin clients and Firebase
 - **LetsTalk:** real-time messaging backend with SignalR
-- **LabOS / LisBox / SmartLab :** laboratory information systems (LIMS) with hospital integrations, barcode printing, e-signature (E-Tuğra), licensing and public-health result reporting — from .NET Framework 2.0/3.5 to .NET 8
+- **LabOS / LisBox / SmartLab:** laboratory information systems (LIMS) with hospital integrations, barcode printing, e-signature (E-Tuğra), licensing and public-health result reporting — from .NET Framework 2.0/3.5 to .NET 8
 - **SmartCity / GIS:** municipal smart-city web & mobile portal with 20+ modules (city guide, transport, bike sharing, parking, Wi-Fi, cameras, sensors, air quality, energy, urban renewal), shapefile-based GIS maps and land-registry (TKGM), MERNİS/NVİ identity and metropolitan municipality integrations — ASP.NET Web Forms, DotSpatial, BruTile, Oracle (ODP.NET), EF
 ---
 
