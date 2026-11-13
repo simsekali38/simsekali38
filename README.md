@@ -42,7 +42,10 @@
 - **CollegeWiser / EduWee / Yadyo:** education and language-learning backend services (.NET 8/9) with Android/Kotlin clients and Firebase
 - **LetsTalk:** real-time messaging backend with SignalR
 - **LabOS / LisBox / SmartLab:** laboratory information systems (LIMS) with hospital integrations, barcode printing, e-signature (E-Tuğra), licensing and public-health result reporting — from .NET Framework 2.0/3.5 to .NET 8
-- **SmartCity / GIS:** municipal smart-city web & mobile portal with 20+ modules (city guide, transport, bike sharing, parking, Wi-Fi, cameras, sensors, air quality, energy, urban renewal), shapefile-based GIS maps and land-registry (TKGM), MERNİS/NVİ identity and metropolitan municipality integrations — ASP.NET Web Forms, DotSpatial, BruTile, Oracle (ODP.NET), EF
+- **SmartCity / GIS (Kayseri Metropolitan & Melikgazi municipalities):** municipal smart-city web & mobile portal with 20+ modules (city guide, transport, bike sharing, parking, Wi-Fi, cameras, sensors, air quality, energy, urban renewal), shapefile-based GIS maps and land-registry (TKGM), MERNİS/NVİ identity and metropolitan municipality integrations — ASP.NET Web Forms, DotSpatial, BruTile, Oracle (ODP.NET), EF
+- **GIS traffic signalization & GIS analytics:** map-based traffic signal management and spatial analysis for municipalities
+- **KASKİ SCADA / Koru1000 (Envest):** SCADA software for water and energy utilities — real-time monitoring dashboards, device communication, alarm and event handling, reporting
+- **Automation & device integration:** laboratory instrument integration, heat-tracking and fault-monitoring automation, optical form reading
 ---
 
 ### 🛠️ Languages & Tools
