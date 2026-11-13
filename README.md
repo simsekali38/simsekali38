@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:512bd4&height=200&section=header&text=Ali%20%C5%9E%C4%B0M%C5%9EEK&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Senior%20.NET%20Backend%20Developer&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:512bd4&height=200&section=header&text=Ali%20%C5%9E%C4%B0M%C5%9EEK&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full%20Stack%20%26%20Backend%20Developer&descSize=20&descAlignY=55" width="100%"/>
 
 <h2 align="center">Hi there 👋, I'm Ali</h2>
 <p align="center">Scalable backend systems & enterprise integrations with .NET, for 14+ years.</p>
@@ -8,6 +8,7 @@
 - 🔭 Senior Full Stack & Backend Developer with 14+ years of experience, focused on **ASP.NET Core, .NET 8/9/10, REST APIs, microservices and event-driven architectures**
 - 🚀 I have delivered high-traffic systems across retail, aviation, energy, airport operations, fintech and smart-city domains (Migros, THY, IGA, ZES)
 - 🏗️ I design systems with **Clean Architecture, DDD, CQRS and MediatR**, and build reusable core libraries for engineering consistency
+- ⚖️ Sworn **Judicial Informatics Expert** registered with the Ministry of Justice, Kayseri Regional Expert Witness Board — Information Systems & Technologies (2026 – present)
 - 🌱 Currently learning: **Kubernetes** and **distributed system design**
 - 📝 I write about backend development at [simakel.com](https://simakel.com)
 - 💬 Ask me about **.NET, C#, SQL Server, microservices, messaging (RabbitMQ / Kafka) and caching (Redis)**
@@ -39,7 +40,7 @@
 ### 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,oracle,mysql,postgres,mongodb,elasticsearch,redis,rabbitmq,kafka,docker,aws,grafana,git,firebase,selenium,angular,react,ts,js,html,css,bootstrap&perline=12" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,oracle,mysql,postgres,mongodb,elasticsearch,redis,rabbitmq,kafka,docker,aws,grafana,git,firebase,selenium,angular,react,ts,js,html,css,bootstrap,kotlin,androidstudio&perline=13" />
 </p>
 
 **Backend:** C#, ASP.NET Core Web API, .NET 6/7/8/9/10, .NET Framework, EF Core, LINQ, REST, Swagger/OpenAPI  
@@ -47,6 +48,7 @@
 **Data & Messaging:** SQL Server, Oracle, MySQL, PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ, Elasticsearch, Hangfire  
 **Cloud & DevOps:** AWS, Docker, CI/CD, Grafana, Serilog, NLog, Structured Logging, Monitoring  
 **Frontend:** Angular, React, TypeScript, RxJS, JavaScript, HTML5, CSS, Bootstrap  
+**Mobile:** Kotlin, Android  
 **Quality:** xUnit, Moq, FluentValidation, Selenium, Testable Services  
 **Other:** Firebase, Git, Jira
 
@@ -55,16 +57,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=simsekali38&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simsekali38&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=simsekali38&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simsekali38&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -72,7 +65,7 @@
 ### 🤝 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simakel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisimsek@simakel.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alisimsek@simakel.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/simakel)
 [![Website](https://img.shields.io/badge/Website-068EB7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://simakel.com)
 
