@@ -21,14 +21,14 @@
 
 | Project | Domain | What I worked on | Tech |
 |---|---|---|---|
-| **ZES / ChargeTracking** | EV charging & integration platform | .NET 8 microservices (API Gateway, authentication, notifications, invoicing, integrations) with service discovery, resilient HTTP calls, messaging and background processing. | .NET 8, Ocelot, Consul, RabbitMQ, Polly, Refit, MySQL, Hangfire, Seq, Docker, Angular 17 |
+| **ZES / ChargeTracking** | Car charging & integration platform | .NET 8 microservices (API Gateway, authentication, notifications, invoicing, integrations) with service discovery, resilient HTTP calls, messaging and background processing. | .NET 8, Ocelot, Consul, RabbitMQ, Polly, Refit, MySQL, Hangfire, Seq, Docker, Angular 17 |
 | **Migros Gourmet / Alacarte** | Retail, order & messaging platform | Consumer, API, task and messaging services for order management, customer workflows and enterprise integrations, with event streaming on Kafka and AWS, Redis-backed performance and real-time updates. | .NET 10, Kafka, AWS (SQS, Kinesis Firehose, S3), Redis, SignalR, MySQL, Docker, Angular 21 |
 | **IGA** | Airport operations, Scan-and-Go & staff screens | Admin, External Integration, Exit Door, Scan-and-Go and Staff Screen APIs (35+ projects) built on Clean Architecture, separating business rules from infrastructure for testability and observability. | .NET 6, Clean Architecture, MediatR, RabbitMQ, Redis, Refit, Elasticsearch, Serilog, JWT |
 | **THY YBY / OCCR** | Aviation operations & management | .NET APIs and React/TypeScript frontends for station management, aircraft/engine change tracking and operational workflows, with domain-oriented modelling. | .NET, React, TypeScript, DDD |
 
 **My products**
 
-- **[Jurvia](https://github.com/simsekali38/jurvia-social):** SaaS for law offices: case, deadline and reminder management with UYAP/UETS workflows, plus an automated Instagram/LinkedIn content pipeline — .NET 10 modular backend (100+ projects), Angular 22
+- **Jurvia:** SaaS for law offices: case, deadline and reminder management with UYAP/UETS workflows, plus an automated Instagram/LinkedIn content pipeline — .NET 10 modular backend (100+ projects), Angular 22
 - **Alias Calendar API:** commercial REST service for Turkish public holidays, religious days and school calendars, with API keys, monthly quotas, plans and admin panel — ASP.NET Core 8, EF Core, SQLite, React 19 + Vite, Docker
 - **TowSaas / Yol Yardım Asistan:** roadside-assistance & towing SaaS with license management and external APIs — .NET 7/8/9, Angular, Iyzico, RabbitMQ
 - **Cleangen CLI:** Clean Architecture project template and code generator used as the starting point for most of the projects below
